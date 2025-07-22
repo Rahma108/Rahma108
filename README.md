@@ -20,8 +20,8 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahma108 on LinkedIn" title="Follow Rahma108 on LinkedIn"/>](https://linkedin.com/in/rahmasalama)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahma108 on Instagram" title="Follow Rahma108 on Instagram"/>](https://instagram.com/rahmasalama)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahma108 on LinkedIn" title="Follow Rahma108 on LinkedIn"/>](https://www.linkedin.com/in/rahma-salama-28b977304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahma108 on Instagram" title="Follow Rahma108 on Instagram"/>](https://www.instagram.com/rahmasalama2020?igsh=MThoYTM5MDUxZzZlYw==)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahma108 on Twitter" title="Follow Rahma108 on Twitter"/>](https://twitter.com/rahmasalama)
 
 
