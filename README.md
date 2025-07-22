@@ -22,7 +22,7 @@
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahma108 on LinkedIn" title="Follow Rahma108 on LinkedIn"/>](https://www.linkedin.com/in/rahma-salama-28b977304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahma108 on Instagram" title="Follow Rahma108 on Instagram"/>](https://www.instagram.com/rahmasalama2020?igsh=MThoYTM5MDUxZzZlYw==)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahma108 on Twitter" title="Follow Rahma108 on Twitter"/>](https://twitter.com/rahmasalama)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahma108 on Twitter" title="Follow Rahma108 on Twitter"/>](https://x.com/rahmasa61361257?t=AE2V5SeRJ1OHdqws_33I0w&s=09)
 
 
 
