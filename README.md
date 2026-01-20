@@ -1,4 +1,3 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
@@ -6,38 +5,67 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Frontend%20%26%20Backend;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
 
-- 🏢 I'm a Software Engineer .
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at to see some of the projects I've worked on.
+---
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+## 👩‍💻 About Me
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Rahma108 on LinkedIn" title="Follow Rahma108 on LinkedIn"/>](https://www.linkedin.com/in/rahma-salama-28b977304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Rahma108 on Instagram" title="Follow Rahma108 on Instagram"/>](https://www.instagram.com/rahmasalama2020?igsh=MThoYTM5MDUxZzZlYw==)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Rahma108 on Twitter" title="Follow Rahma108 on Twitter"/>](https://x.com/rahmasa61361257?t=AE2V5SeRJ1OHdqws_33I0w&s=09)
+* 🏢 **Software Engineer / CS Student**
+* 💻 **Full Stack Web Developer**
+* 🔧 Building scalable **Frontend & Backend applications**
+* 🗄️ Strong knowledge of **Databases & REST APIs**
+* ☕ Coffee lover – debugging works better with coffee
 
+---
 
+## 📫 How to reach me
 
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+You can reach me via email on my GitHub profile
+or follow me on social media 👇
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em"/>](https://www.linkedin.com/in/rahma-salama-28b977304)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em"/>](https://www.instagram.com/rahmasalama2020)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em"/>](https://x.com/rahmasa61361257)
 
+---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat\&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat\&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat\&logo=bootstrap)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js)
+![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat\&logo=express)
+
+### 🗄️ Database & ORM
+
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat\&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat\&logo=sequelize)
+
+### 🔐 Authentication & Tools
+
+![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat\&logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat\&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat\&logo=visual-studio-code)
+
+---
+
+## 📊 GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaSalama&show_icons=true&locale=en&layout=compact&theme=radical" />
+
+---
+
+⭐ Feel free to explore my repositories and support my work!
