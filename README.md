@@ -34,7 +34,6 @@ or follow me on social media 👇
 
 ## 🛠 Tech Stack
 
-### 🎨 Frontend
 
 ### 🎨 Frontend
 
