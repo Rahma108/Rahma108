@@ -1,4 +1,5 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="280" align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif1.gif" alt="Full-Stack Developer">
+
 
 <h3 align="center">
   Welcome to Rahma Salama's profile!
