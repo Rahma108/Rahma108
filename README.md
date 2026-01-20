@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/fullstack.gif" alt="Full-Stack Developer">
 
 <h3 align="center">
   Welcome to Rahma Salama's profile!
