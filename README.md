@@ -36,11 +36,14 @@ or follow me on social media 👇
 
 ### 🎨 Frontend
 
+### 🎨 Frontend
+
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat\&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat\&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat\&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat\&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat\&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat\&logo=tailwind-css\&logoColor=38BDF8)
 
 ### ⚙️ Backend
 
