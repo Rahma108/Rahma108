@@ -50,11 +50,14 @@ or follow me on social media 👇
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat\&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat\&logo=express)
 
+
 ### 🗄️ Database & ORM
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat\&logo=mysql)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat\&logo=sequelize)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat\&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat\&logo=mongoose)
 
 ### 🔐 Authentication & Tools
 
