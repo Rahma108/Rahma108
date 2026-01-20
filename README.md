@@ -64,7 +64,8 @@ or follow me on social media 👇
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RahmaSalama&show_icons=true&locale=en&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahma108
+&show_icons=true&locale=en&layout=compact&theme=radical" />
 
 ---
 
