@@ -1,8 +1,4 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql"/>
+
 
 <h3 align="center">
   Welcome to Rahma Salama's profile!
